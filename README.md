@@ -34,9 +34,3 @@ Ich plane die Entwicklung einer Lösung im Bereich **Zero-Knowledge Proofs (ZKP)
 * **Community:** Erfahrung in der Organisation und Motivation von Teams.
 
 ---
-
-### ⚙️ Sprachen
-* Deutsch (Muttersprache)
-* Englisch (Sehr gute Kenntnisse)
-
----
