@@ -12,11 +12,7 @@
 - [ ] 2. Dart & Flutter
 - [ ] 3. OAuth 2.0 & OpenID Connect
 - [ ] 4. Rust
-- [ ] 5. Asymmetrische Kryptografie
-- [ ] 6. Hardware-Sicherheitschips (TPM / Secure Enclave)
-- [ ] 7. Zero-Knowledge Proofs (ZKP)
-- [ ] 8. W3C DID & Verifiable Credentials
-- [ ] 9. Mikropayments (z. B. Bitcoin Lightning)
+- [ ] 5. Zero-Knowledge Proofs (ZKP)
 
 ---
 
