@@ -39,11 +39,4 @@ Ich plane die Entwicklung einer Lösung im Bereich **Zero-Knowledge Proofs (ZKP)
 * Deutsch (Muttersprache)
 * Englisch (Sehr gute Kenntnisse)
 
-
-
-
----
-
-[![roadmap.sh](https://roadmap.sh/card/tall/695ea602b5796bd00cd06fdd?variant=dark)](https://roadmap.sh)
-
 ---
