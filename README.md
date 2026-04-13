@@ -1,16 +1,25 @@
-## Hi there 👋
+# Johannes
 
-<!--
-**Johannes-Zrenner-py/Johannes-Zrenner-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Was ich schon kann
+- [x] Starkes Grundwissen über Finanzen & Unternehmenskennzahlen (ROIC,EBIT-Marge)
+- [x] Verständnis für verschiedene Geschäftsmodelle (Razor-& Blade)
+
+---
+
+## 📚 Meine Roadmap
+- [ ] 1. Python ⏳
+- [ ] 2. Dart & Flutter
+- [ ] 3. OAuth 2.0 & OpenID Connect
+- [ ] 4. Rust
+- [ ] 5. Asymmetrische Kryptografie
+- [ ] 6. Hardware-Sicherheitschips (TPM / Secure Enclave)
+- [ ] 7. Zero-Knowledge Proofs (ZKP)
+- [ ] 8. W3C DID & Verifiable Credentials
+- [ ] 9. Mikropayments (z. B. Bitcoin Lightning)
+
+---
+[![roadmap.sh](https://roadmap.sh/card/tall/695ea602b5796bd00cd06fdd?variant=dark)](https://roadmap.sh)
+---
