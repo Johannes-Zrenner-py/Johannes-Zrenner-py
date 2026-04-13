@@ -5,7 +5,7 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/695ea602b5796bd00cd06fdd?variant=dark&roadmaps=flutter%2Crust%2Cpython)](https://roadmap.sh)
 
 ### 👨‍💻 Über mich
-Ich bringe mir die Programmierung und IT-Sicherheit komplett selbstständig bei. Mein Ziel ist es, nach meinem Schulabschluss im Jahr 2026 Wirtschaftsinformatik zu studieren, um technisches Know-how mit unternehmerischem Denken zu verbinden.
+Ich bringe mir die Programmierung und IT-Sicherheit komplett selbstständig bei. Mein Ziel ist es, nach meinem Realschulabschluss im Jahr 2026, später Wirtschaftsinformatik zu studieren, um technisches Know-how mit unternehmerischem Denken zu verbinden.
 
 * **Fokus:** Python-Entwicklung, Cybersecurity und Hardware-Systeme.
 * **Methodik:** Strukturiertes Selbststudium über Roadmaps und algorithmisches Training.
