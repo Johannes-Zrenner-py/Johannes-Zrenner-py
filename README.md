@@ -1,6 +1,6 @@
 
 
-# 🚀 Autodidaktischer Entwickler | Future Business Informatics Student
+# 🚀 Future Business Informatics Student
 
 [![roadmap.sh](https://roadmap.sh/card/wide/695ea602b5796bd00cd06fdd?variant=dark)](https://roadmap.sh)
 ### 👨‍💻 Über mich
